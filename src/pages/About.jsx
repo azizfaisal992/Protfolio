@@ -247,7 +247,7 @@ const About = () => {
                     Faisal <span className="text-lime-400">Aziz</span>
                   </h3>
                   <p className="text-[10px] font-mono text-gray-500 tracking-[2px] uppercase leading-relaxed">
-                    CS&E Student · Frontend Dev · AI Enthusiast
+                    CSE Student · Frontend Dev · AI Enthusiast
                   </p>
                 </div>
                 <div className="flex items-center gap-2 px-3 py-1.5 bg-lime-400/5 border border-lime-400/15 rounded-lg w-fit">
